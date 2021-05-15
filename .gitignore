@@ -1,0 +1,10 @@
+
+02-Code/banorte-amis-siniestro/.dockerignore
+02-Code/banorte-amis-siniestro/.mvn/wrapper/maven-wrapper.properties
+02-Code/banorte-amis-siniestro/.mvn/wrapper/MavenWrapperDownloader.java
+02-Code/banorte-amis-siniestro/mvnw
+02-Code/banorte-amis-siniestro/mvnw.cmd
+02-Code/tics-amis/mvnw.cmd
+02-Code/tics-amis/mvnw
+02-Code/tics-amis/.mvn/wrapper/maven-wrapper.properties
+02-Code/tics-amis/.mvn/wrapper/MavenWrapperDownloader.java
